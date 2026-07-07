@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-This project is a part of my Data Science Virtual Internship with DecodeLabs.
-
 The goal was to clean the raw dataset collected from the e-commerce website, preprocess it, prepare features and encode them into a machine learning-ready dataset through Exploratory Data Analysis (EDA), data preprocessing, feature engineering and categorical encoding.
 
 ---
